@@ -1,5 +1,5 @@
 # Pruebas-BDD
-Se haran pruebas BDD a la pagina de la FIFA
+Se haran las historias BDD a la pagina web de Avianca
 
 ## IDE
 Se utilizo PyCharm - python
@@ -15,4 +15,4 @@ Install selenium driver for Chrome --> https://wwww.selenium.dev/downloads
 Install ChroPath extension for google 
 
 ## Run
-run ---> behave features(folder)/xxxx.feature
+run ---> behave features(folder)/(Nombre de mi feature).feature
